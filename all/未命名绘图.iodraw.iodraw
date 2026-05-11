@@ -61,7 +61,7 @@
         <mxCell id="MqPNIjuIFSi2Fm2WOtq--13" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="890" y="460" width="110" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="MqPNIjuIFSi2Fm2WOtq--14" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;（1）土壤理化指标检测&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;（2）高通量qPCR定量ARGs和MGEs&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;(3)&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="MqPNIjuIFSi2Fm2WOtq--14" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;(1)土壤理化指标检测&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;(2)高通量qPCR定量ARGs和MGEs&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;(3)&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="630" y="460" width="200" height="250" as="geometry" />
         </mxCell>
         <mxCell id="MqPNIjuIFSi2Fm2WOtq--16" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
