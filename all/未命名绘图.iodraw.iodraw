@@ -58,7 +58,7 @@
         <mxCell id="MqPNIjuIFSi2Fm2WOtq--11" value="研究意义" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="280" y="870" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MqPNIjuIFSi2Fm2WOtq--13" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="MqPNIjuIFSi2Fm2WOtq--13" value="（&lt;font style=&quot;font-size: 24px;&quot;&gt;1）ARGs与MGEs与病毒相关性网络&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;（2）病毒风险评估模型&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;（3）病毒耐药基因与宿主基因三维空间互作&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="860" y="460" width="170" height="240" as="geometry" />
         </mxCell>
         <mxCell id="MqPNIjuIFSi2Fm2WOtq--14" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;(1)土壤理化指标检测&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;(2)高通量qPCR定量ARGs和MGEs&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;(3)耐药基因与干旱，有机肥相关性分析&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
