@@ -71,7 +71,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MqPNIjuIFSi2Fm2WOtq--17" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;单细胞拉曼分选&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="400" y="770" width="170" height="50" as="geometry" />
+          <mxGeometry x="400" y="770" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MqPNIjuIFSi2Fm2WOtq--18" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -80,7 +80,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MqPNIjuIFSi2Fm2WOtq--20" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;高通量定量qPCR,理化指标检测方法&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="628.5" y="770" width="161.5" height="90" as="geometry" />
+          <mxGeometry x="637" y="770" width="161.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="MqPNIjuIFSi2Fm2WOtq--21" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;高通量定量qPCR,理化指标检测方法&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="840" y="780" width="161.5" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
